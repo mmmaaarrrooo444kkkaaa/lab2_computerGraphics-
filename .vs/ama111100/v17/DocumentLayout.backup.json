@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stud\\Desktop\\lab1_computerGraphics--main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2810951-C241-4ACC-8563-DA219B2B44CE}|lab1\\lab1.vcxproj|C:\\Users\\stud\\Desktop\\lab1_computerGraphics--main\\lab1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2810951-C241-4ACC-8563-DA219B2B44CE}|lab1\\lab1.vcxproj|solutionrelative:lab1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab1.cpp",
+              "DocumentMoniker": "C:\\Users\\stud\\Desktop\\lab1_computerGraphics--main\\lab1\\lab1.cpp",
+              "RelativeDocumentMoniker": "lab1\\lab1.cpp",
+              "ToolTip": "C:\\Users\\stud\\Desktop\\lab1_computerGraphics--main\\lab1\\lab1.cpp*",
+              "RelativeToolTip": "lab1\\lab1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T00:30:36.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
